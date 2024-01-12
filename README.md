@@ -11,3 +11,16 @@
 </p>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<p align="start">
+  <a href="https://www.linkedin.com/in/said-elias-salcedo-cupitra-066827268/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <br>
+  <a href="mailto:ssaidsal08@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
