@@ -6,7 +6,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technologies That I Know👨🏻‍💻</b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,apollo,graphql,tailwind,angular,git,bootstrap,css,html,threejs,express,nestjs,prisma,dotnet,figma,github,materialui,mongodb,mysql,nodejs,postman,vite,vscode,visualstudio&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,apollo,graphql,tailwind,angular,git,bootstrap,css,html,threejs,express,nestjs,prisma,dotnet,figma,github,bitbucket,materialui,mongodb,mysql,nodejs,postman,vite,vscode,visualstudio&perline=14" />
   </a>
 </p>
 
